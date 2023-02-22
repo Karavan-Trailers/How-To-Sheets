@@ -19,4 +19,4 @@ This is a quick guide to reprinting labels.  It is a very simple process, but it
  + Click on the box next to the label number to open the label.
 ![Label Print Summary 5](img/reprints/ScreenshotConfirm.svg)
  + And then the reprint button.
- + Hot tip: If you want to reprint a label at a different printer, you can do that here.  Just click on the printer name and select the printer you want to print to. You can also change the number of copies you want to print here.  Just click on the number and type in the number you want to print. (Could even change the label type.) Then click on the reprint button.
+ + Hot tip: If you want to reprint a label at a different printer, you can do that here.  Just click on the printer name and select the printer you want to print to. You can also change the number of copies you want to print here.  Just click on the number and type in the number you want to print. (Could even change the label type.) Then click on the reprint button. 
