@@ -17,7 +17,8 @@ This is a quick guide to reprinting labels.  It is a very simple process, but it
 ![Label Print Summary 3](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/reprints/Screenshot%202023-02-22%20at%208.45.38%20AM.png)
 
  + Click on the box next to the label number to open the label.
+ + And then the reprint button.
  
 ![Label Print Summary 5](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/reprints/ScreenshotConfirm.svg)
- + And then the reprint button.
+
  + Hot tip: If you want to reprint a label at a different printer, you can do that here.  Just click on the printer name and select the printer you want to print to. You can also change the number of copies you want to print here.  Just click on the number and type in the number you want to print. (Could even change the label type.) Then click on the reprint button.
