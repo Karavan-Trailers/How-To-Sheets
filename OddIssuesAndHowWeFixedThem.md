@@ -6,4 +6,8 @@
 + We made a Temp shared name with the new IP and changed all users to use the new name
 + The next day changed a data cable and everything worked fine 
  + Changed all users to print with this IP
+
+3-7-23 ZebraZM400VIN was spooling up
+ + Turned off the Backfeed was set to default 
+
   
