@@ -1,4 +1,6 @@
-I am still not seeing any change in the printing of the VIN tag. Nor can I even reprint a VIN. I can reprint the jobmove tags. Is it possible that I am selecting the correct options. Here are the steps I am taking:
+I am still not seeing any change in the printing of the VIN tag. Nor can I even reprint a VIN. I can reprint the jobmove tags. Is it possible that I am selecting the incorrect options. 
+
+Here are the steps I am taking:
 
 
 1. Hit the job move button 
