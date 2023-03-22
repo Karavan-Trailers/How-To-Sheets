@@ -25,6 +25,6 @@
 ### 3-22-23 Z4m in tube not connecting to the network / Solid red network cable light 
   + after days of trying network trouble shooting. It ended up being the power supply we changed the power strip and all is well
   ##### Links that could be useful since we already did the lookup
-  [Last tip in the thread : find the reset button](https://www.fixya.com/support/t12710943-change_ip_address_zebra_z4m_plus_printer)
-  [Maybe we should use this?](https://www.zebra.com/us/en/support-downloads/printer-software/zebranet-bridge-enterprise.html)
-  [SEARCH FOR RED LIGHT : do zebra zm4 plus printers red light on by ethernet cable](https://www.google.com/search?q=do+zebra+zm4+plus+printers+red+light+on+by+ethernet+cable&sxsrf=AJOqlzUssocRYd9w8W6nt5nm634CLOnt2w%3A1679497856848&ei=gBobZIuxM57VkPIPnqOS8As&oq=do+zebra+zm4+plus+printers+red+light+on+by+eather&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIIRCgARAKMgcIIRCgARAKMgcIIRCgARAKMgcIIRCgARAKOgoIABBHENYEELADOgUIIRCgAToFCCEQqwJKBAhBGABQjQhY8hxg_CxoAXABeACAAagBiAGwC5IBBDAuMTCYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)
+  + [Last tip in the thread : find the reset button](https://www.fixya.com/support/t12710943-change_ip_address_zebra_z4m_plus_printer)
+  + [Maybe we should use this?](https://www.zebra.com/us/en/support-downloads/printer-software/zebranet-bridge-enterprise.html)
+  + [SEARCH FOR RED LIGHT : do zebra zm4 plus printers red light on by ethernet cable](https://www.google.com/search?q=do+zebra+zm4+plus+printers+red+light+on+by+ethernet+cable&sxsrf=AJOqlzUssocRYd9w8W6nt5nm634CLOnt2w%3A1679497856848&ei=gBobZIuxM57VkPIPnqOS8As&oq=do+zebra+zm4+plus+printers+red+light+on+by+eather&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIIRCgARAKMgcIIRCgARAKMgcIIRCgARAKMgcIIRCgARAKOgoIABBHENYEELADOgUIIRCgAToFCCEQqwJKBAhBGABQjQhY8hxg_CxoAXABeACAAagBiAGwC5IBBDAuMTCYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)
