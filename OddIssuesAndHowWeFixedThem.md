@@ -11,6 +11,9 @@
  + Turned off the Backfeed was set to default 
 
 ### 3-13-23 Z4m WldLblPrnt printing extra blank labels and when the printer did print a label it was only half printed
+
+  + https://github.com/Karavan-Trailers/PrinterProject/blob/main/notesOnPrinterWork.md#if-the-label-is-printing-the-layout-information-not-sure-if-this-is-100-yet
+
 ### 3-14-23 not connected to network
   + [Manual](https://www.servopack.de/support/zebra/Z4Mplus_Z6Mplus.pdf)
   + Tear off was 20 to 0
@@ -28,3 +31,11 @@
   + [Last tip in the thread : find the reset button](https://www.fixya.com/support/t12710943-change_ip_address_zebra_z4m_plus_printer)
   + [Maybe we should use this?](https://www.zebra.com/us/en/support-downloads/printer-software/zebranet-bridge-enterprise.html)
   + [SEARCH FOR RED LIGHT : do zebra zm4 plus printers red light on by ethernet cable](https://www.google.com/search?q=do+zebra+zm4+plus+printers+red+light+on+by+ethernet+cable&sxsrf=AJOqlzUssocRYd9w8W6nt5nm634CLOnt2w%3A1679497856848&ei=gBobZIuxM57VkPIPnqOS8As&oq=do+zebra+zm4+plus+printers+red+light+on+by+eather&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIIRCgARAKMgcIIRCgARAKMgcIIRCgARAKMgcIIRCgARAKOgoIABBHENYEELADOgUIIRCgAToFCCEQqwJKBAhBGABQjQhY8hxg_CxoAXABeACAAagBiAGwC5IBBDAuMTCYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)
+
+### Printer had a password that we did not put on it
+  + HACK THE MAINFRAME
+  + [Video](https://www.youtube.com/watch?v=D5GCdlyeNHA)
+  + [Intro Article](https://supportcommunity.zebra.com/s/article/Zebra-Printer-LCD-Display-Password?language=en_US#:~:text=The%20default%20password%20is%201234,using%20the%20ZPL%20command%20%5EKP.)
+  + [Step-by-Step Article](https://supportcommunity.zebra.com/s/article/Change-printer-language-and-driver-to-ZPL?language=en_US)
+  + [Examples of Code](https://supportcommunity.zebra.com/s/article/Defaulting-the-Zebra-Mobile-Printer-Configuration-Settings?language=en_US)
+  + [Support Article](https://supportcommunity.zebra.com/s/article/Changing-the-Print-Server-s-Password?language=en_US)
