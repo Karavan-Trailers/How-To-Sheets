@@ -32,7 +32,7 @@
   + [Maybe we should use this?](https://www.zebra.com/us/en/support-downloads/printer-software/zebranet-bridge-enterprise.html)
   + [SEARCH FOR RED LIGHT : do zebra zm4 plus printers red light on by ethernet cable](https://www.google.com/search?q=do+zebra+zm4+plus+printers+red+light+on+by+ethernet+cable&sxsrf=AJOqlzUssocRYd9w8W6nt5nm634CLOnt2w%3A1679497856848&ei=gBobZIuxM57VkPIPnqOS8As&oq=do+zebra+zm4+plus+printers+red+light+on+by+eather&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIIRCgARAKMgcIIRCgARAKMgcIIRCgARAKMgcIIRCgARAKOgoIABBHENYEELADOgUIIRCgAToFCCEQqwJKBAhBGABQjQhY8hxg_CxoAXABeACAAagBiAGwC5IBBDAuMTCYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp)
 
-### Printer had a password that we did not put on it
+### 3-22-23 Printer had a password that we did not put on it
   + HACK THE MAINFRAME
   + [Video](https://www.youtube.com/watch?v=D5GCdlyeNHA)
   + [Intro Article](https://supportcommunity.zebra.com/s/article/Zebra-Printer-LCD-Display-Password?language=en_US#:~:text=The%20default%20password%20is%201234,using%20the%20ZPL%20command%20%5EKP.)
