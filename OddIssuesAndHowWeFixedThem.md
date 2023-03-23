@@ -12,7 +12,7 @@
 
 ### 3-13-23 Z4m WldLblPrnt printing extra blank labels and when the printer did print a label it was only half printed
 
-  + https://github.com/Karavan-Trailers/PrinterProject/blob/main/notesOnPrinterWork.md#if-the-label-is-printing-the-layout-information-not-sure-if-this-is-100-yet
+  + [Possible way to fix this](https://github.com/Karavan-Trailers/PrinterProject/blob/main/notesOnPrinterWork.md#if-the-label-is-printing-the-layout-information-not-sure-if-this-is-100-yet)
 
 ### 3-14-23 not connected to network
   + [Manual](https://www.servopack.de/support/zebra/Z4Mplus_Z6Mplus.pdf)
