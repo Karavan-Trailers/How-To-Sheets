@@ -22,8 +22,10 @@
  |```findstr "<STRING>" [N:\LabelOutputs\*]|findstr "<STRING>" ```| Windows | Find a string in a folder |
  |```grep -i or l <STRING> N:\LabelOutputs\*``` | macOS | Find a string in a folder |
  |```grep -r <STRING>  ```| Linux/Mac | Find a string when in a folder |
- |select-string -path N:\LabelOutputs\* -pattern "<STRING>" | PowerShell | Find a string in a folder |
+ |```select-string -path N:\LabelOutputs\* -pattern "<STRING>" ``` | PowerShell | Find a string in a folder |
  |```select-string  '<STRING>' "$HOME\..\..Volumes\N:\LabelOutputs\*" ```  | PowerShell | Find a string in a folder|
+ |```select-string  -pattern '04/07/2023', 'Label Backup' -AllMatches "$HOME\..\.. \Volumes\LabelOutputs\*" ```  | PowerShell | Find two strings in a folder will return all|
+ |```select-string -pattern '(?s) (Label Backup).+? (04/07/2023)' "$HOME\.. \.. \Volumes\LabelOutputs\*" ``` | PowerShell | Find a string in a folder with 2 conditions must be in that order |
   
 ## llama 
 **Easy terminal searching**
