@@ -1,17 +1,17 @@
 Go to Settings >> Mail >> Accounts 
 
-![Account UI](/img/iphoneEmail/accounts.png)
+![Account UI](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/IphoneEmail/accounts.png)
 
 Click Add Account 
 
-![Add Account UI](/img/iphoneEmail/add.png)
+![Add Account UI](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/IphoneEmail/add.png)
 
 Click Microsoft Exchange 
 
-![Exchange UI](/img/iphoneEmail/exchange.png)
+![Exchange UI](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/IphoneEmail/exchange.png)
 
 Fill in information and click next
 
-![add info](/img/iphoneEmail/addInfo2.png)
+![add info](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/IphoneEmail/addInfo2.png)
 
 Click sign in and then give permissions and you are good to go 
