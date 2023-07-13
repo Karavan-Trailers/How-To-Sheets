@@ -26,7 +26,7 @@
  |```select-string  '<STRING>' "$HOME\..\..Volumes\N:\LabelOutputs\*" ```  | PowerShell | Find a string in a folder|
  |```select-string  -pattern '04/07/2023', 'Label Backup' -AllMatches "$HOME\..\.. \Volumes\LabelOutputs\*" ```  | PowerShell | Find two strings in a folder will return all|
  |```select-string -pattern '(?s) (Label Backup).+? (04/07/2023)' "$HOME\.. \.. \Volumes\LabelOutputs\*" ``` | PowerShell | Find a string in a folder with 2 conditions must be in that order |
- |```Get-ChildItem -Path "$HOME\..\..\Volumes\kt-fs1\LabelOutputs\" -Filter "*.dat" -Recurse | select-string -pattern '(?s)(2_2.2).+?(07/10/2023)'``` | PowerShell | Find a sting and all the sub folders
+ |```Get-ChildItem -Path "$HOME\..\..\Volumes\kt-fs1\LabelOutputs\" -Filter "*.dat" -Recurse | select-string -pattern '(?s)(2_2.2).+?(07/10/2023)'``` | PowerShell | Find a sting and all the sub folders |
   
 ## llama 
 **Easy terminal searching**
