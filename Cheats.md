@@ -11,9 +11,12 @@
 # Terminal Cheats
  | Action | Bash or not | Notes |
  |:------:|:-----------:|:-----:|
- | Syteline_import[Utilities<VERSION_NUMBER>.jar] | Bash Script | Copy and paste the version number from the file in IDM |
+ | Syteline_import Utilities<VERSION_NUMBER>.jar | Bash Script | Copy and paste the version number from the file in IDM |
  |Kill_This | Bash Script | clear ssh-agent |
  |push[<BRANCH_NAME>] | Bash Script | Push to a branch |
+ | source ~/ | not | zprofile to reload |
+ | PWD | not | path in the terminal |
+ | open .zprofile | not | To open your terminal profile
 
  ### Find Strings
  | Action | OS | Notes |
@@ -55,4 +58,3 @@
 |? | help|
 |q | quit|
 |antonmedv/lama | GitHub|
-
