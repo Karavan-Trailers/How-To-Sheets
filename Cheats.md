@@ -21,6 +21,8 @@
   |```select-string -pattern '(?s) (Label Backup).+? (04/07/2023)' "$HOME\.. \.. \Volumes\LabelOutputs\*" ``` | PowerShell | Find a string in a folder with 2 conditions must be in that order |
  |```Get-ChildItem -Path "$HOME\..\..\Volumes\kt-fs1\LabelOutputs\" -Filter "*.dat" -Recurse | select-string -pattern '(?s)(2_2.2).+?(07/10/2023)'``` | PowerShell | Find a sting and all the sub folders |
  ##### These work also
+  | Action | OS | Notes |
+ |:------:|:--:|:-----:|
  |```findstr <STRING> "N:\LabelOutputs\*" ```| Windows | Find a string in a folder |
  |```findstr "<STRING>" [N:\LabelOutputs\*]|findstr "<STRING>" ```| Windows | Find a string in a folder |
  |```grep -i or l <STRING> N:\LabelOutputs\*``` | macOS | Find a string in a folder |
