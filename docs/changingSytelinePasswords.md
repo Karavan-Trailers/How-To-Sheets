@@ -4,7 +4,11 @@ Oh no you got this annoying email
 ![Email](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/ChangeSytelinePassword/email.png)
 
 + First thing you need to due is to login to Syteline normally.
-+ Then when logged in you go to the top right menu and click on the user icon with your name.
++ Then when logged in you go to the top right menu and click on the user icon.
+
+![Top Right Menu](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/ChangeSytelinePassword/topRightMenu.png)
+
++ Click on User Settings:
 
 ![Settings](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/ChangeSytelinePassword/user.png)
 
