@@ -6,3 +6,5 @@
 [Printing a VIN Tag](Printing_A_VIN_Tag)
 
 [Setting an Iphone Email](iphoneEmail.md)
+
+[Setting a New Syteline Password](changingSytelinePasswords.md)
