@@ -8,3 +8,5 @@
 [Setting an Iphone Email](iphoneEmail.md)
 
 [Setting a New Syteline Password](changingSytelinePasswords.md)
+
+[How to add a calendar to Outlook](addingOutlookCalender.md)
