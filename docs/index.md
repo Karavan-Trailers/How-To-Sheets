@@ -10,3 +10,5 @@
 [Setting a New Syteline Password](changingSytelinePasswords.md)
 
 [How to add a calendar to Outlook](addingOutlookCalender.md)
+
+[Print Labels (first time)](InstallBarTender.md)
