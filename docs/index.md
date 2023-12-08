@@ -14,3 +14,5 @@
 [Print Labels (first time)](InstallBarTender.md)
 
 [My Parts Drawing is Missing](PartsDrawing.md)
+
+[How to make a Barcode](FindAndDownloadBarcodes.md)
