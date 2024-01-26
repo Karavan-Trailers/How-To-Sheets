@@ -28,9 +28,9 @@ Step three: Navigate to the Users folder. \
 ![Signature Folder](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/esig/windows/Step2.png)\
 Step four: Navigate to the folder that has your name on it.\
 ![Signature Folder](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/esig/windows/Step3.png)\
-Step five: Navigate to the AppData folder.  \
-+ In the event that you do not see the AppData folder, you will need to enable hidden folders.  \
-+ Depending on your version of Windows, this may be different. Could be this or the next screenshot.  \
+Step five: Navigate to the AppData folder.  
++ In the event that you do not see the AppData folder, you will need to enable hidden folders.  
++ Depending on your version of Windows, this may be different. Could be this or the next screenshot.  
 
 ![Signature Folder](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/esig/windows/Step4_A.png)\
 Step five: Navigate to the AppData folder.  \
@@ -48,8 +48,8 @@ Step ten: Open with Notepad.\
 ![Open File With](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/esig/outlook/OutlookStep5.png)\
 Step eleven: Scroll to the bottom of the file.\
 ![Go To Bottom of File](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/esig/outlook/OutlookStep6.png)  \
-Step twelve: Paste the fancy signature that you copied from the email into the file.\
-+ Select the text that you typed in the first signature and paste the fancy signature code over it.\
+Step twelve: Paste the fancy signature that you copied from the email into the file.
++ Select the text that you typed in the first signature and paste the fancy signature code over it.
 + Make sure that you do not delete the text in the tags `<p class=MsoAutoSig> </p>` \
 ![Paste Here](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/esig/outlook/OutlookStep7.png)
 
