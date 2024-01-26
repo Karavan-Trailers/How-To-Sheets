@@ -1,5 +1,6 @@
 # Steps to add email signature to Outlook
 ### Make a signature to be changed in part 2
+___There are two ways to do this.___  \
 Step one: Open Outlook and click on the File tab in the top left corner of the screen.  \
 Step two: Click on Options in the left hand menu.  \
 Step three: Click on Mail in the left hand menu.  \
