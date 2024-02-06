@@ -54,4 +54,24 @@ Step twelve: Paste the fancy signature that you copied from the email into the f
 ![Paste Here](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/esig/outlook/OutlookStep7.png)
 
 Step thirteen: Save the file. (Ctrl + S)  \
-Step fourteen: Close the file and go drink a hot chocolate. You're done.
+Step fourteen: KEEP THE FILE WINDOW OPEN 
++ You will need to go back to this file in the next step.  
+
+![Signature Folder](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/esig/outlook/OutlookStep4.png)  \
+
+
+Step fifteen: Send a test email to yourself.  \
+Step sixteen: Copy the fancy signature from the email.
++ if it not coming up Close and Open Outlook.  
+
+![Signature Folder](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/esig/outlook/Sig.png)
+
+Then paste that into the other 2 new signature files (.rtf and .txt)
++ Open the rtf with Word and the txt with Notepad
+    + Right click on the file and select Open With
++ The .rtf file should look the same the .txt will show as just text.
++ There might be blank lines at the top of the .txt file.  You can delete those. 
++ Save the files.  \
+
+
+Step Seventeen: Close the file and go drink a hot chocolate. You're done.
