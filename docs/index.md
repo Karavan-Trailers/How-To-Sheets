@@ -8,6 +8,7 @@
 ### Syteline Issues
 [Setting a New Syteline Password](changingSytelinePasswords.md)  
 [My Parts Drawing is Missing](PartsDrawing.md)
+[Revert to Old Syteline Format](RevertSyteline.md)
 
 ### Others
 [How to make a Barcode](FindAndDownloadBarcodes.md)  
