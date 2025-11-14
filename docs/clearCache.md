@@ -13,6 +13,7 @@ Open the menu
 ![Open Browser Menu](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/clearCache/cache1.png)
 
 Go to Delete Browsing Data
+
 ![Open Browser Menu](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/clearCache/cache2.png)
 
 Check the boxes for Cookies and Cached Data, then click Clear Data
