@@ -38,5 +38,5 @@ You should not have to do any special configuration with the connection that you
 6. **Disconnecting from the VPN**  
    When you are done working remotely, remember to disconnect from the VPN to ensure security.
     - Open the VPN client application.
-    - Click on the "Disconnect" button.
+    - Click on the "Disconnect" button.  
     ![VPN Client Start Menu](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/VPN/image001.png)
