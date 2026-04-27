@@ -1,8 +1,8 @@
 # Steps to swap VIN format in Karavan's Syteline system 
 
-Step one: Log in to Syteline - Factory Track then log in to the site that you want to modify.  \
+Step one: Log in to Syteline - Factory Track then log in to the site that you want to modify.  
 
-Step two: Click Form open and type ```Transaction Set Maintenance```.  \
+Step two: Click Form open and type ```Transaction Set Maintenance```.  
 
 ![Form Open](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/SwapFormats/Step1.png)  
 
@@ -24,8 +24,8 @@ Step six: Click the **Label Name** dropdown and select the new label format.
 
 Step seven: Click the **Save** button. (Looks like a floppy disk icon) 
 
-![Save Button](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/SwapFormats/Step6.png)  \
+![Save Button](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/SwapFormats/Step6.png)  
 
-Step eight: Close the Transaction Set Maintenance form.  \
+Step eight: Close the Transaction Set Maintenance form.  
 
-Step nine: Celebrate! You have successfully swapped the VIN format.  \
+Step nine: Celebrate! You have successfully swapped the VIN format.  
