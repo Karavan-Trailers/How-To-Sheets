@@ -14,6 +14,7 @@
 + [Revert to Old Syteline Format](RevertSyteline.md)
 + [Uploading Failing](uploadingFailing.md)
 + [How to swap VIN format in Karavan's Syteline system](Swap_VIN_Format.md)
++ [How to make your own Widget ui](makingWidgetYourOwn.md)
 
 ### Others
 
