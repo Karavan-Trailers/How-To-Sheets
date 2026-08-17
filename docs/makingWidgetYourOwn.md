@@ -1,20 +1,19 @@
 # Make your own widget screen:
+*Note*: If you already made a custom widget screen you can skip these first two steps
 
 Start: click the widgets button.
 
 ![Click Widgets Button](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/makeYourWidget/StepOne.png)
 
-Note: If you already made a custom widget screen you can do this instead
-
-Hit the three dots and click edit
-
-![Click Edit](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/makeYourWidget/StepOne2.png)
-
 Click add
 
 ![Click Add](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/makeYourWidget/StepTwo.png)
 
-Note: If you already made a custom widget screen you can do this instead
+*Note*: If you already made a custom widget screen you can do these two steps instead
+
+Hit the three dots and click edit
+
+![Click Edit](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/makeYourWidget/StepOne2.png)
 
 Hit the Add Widget button
 
