@@ -29,6 +29,8 @@ Hit the Add Widget button
 
 ![Click Edit](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/makeYourWidget/StepTwo2.png)
 
+__*Both Styles Do The Rest*__
+
 Search Related Information
 
 ![Click Search](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/makeYourWidget/StepFive.png)
