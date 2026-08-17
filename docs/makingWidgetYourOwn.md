@@ -1,4 +1,4 @@
-# Make your own widget screen
+# Make your own widget screen/Need to use the new "IDM" widget
 
 __*Note*: If you already made a custom widget screen you can skip these first four steps__
 
