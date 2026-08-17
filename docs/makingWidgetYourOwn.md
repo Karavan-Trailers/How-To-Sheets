@@ -9,6 +9,7 @@ Click add
 ![Click Add](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/makeYourWidget/StepTwo.png)
 
 Name your own widget ui is will not affect anyone else
+Hit OK
 
 ![Name It](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/makeYourWidget/StepThree.png)
 
@@ -19,7 +20,6 @@ Click add widget
 Search Related Information
 
 ![Click Search](https://raw.githubusercontent.com/Karavan-Trailers/How-To-Sheets/main/img/makeYourWidget/StepFive.png)
-
 
 Click add widget in the upper right
 
