@@ -1,6 +1,8 @@
 # Make your own widget screen/Need to use the new "IDM" widget
 
->__*Note*: If you already made a custom widget screen you can skip these first four steps. *This would have been something you yourself made earlier.* (GO TO STEP 1b)__
+>__*Note*:__  
+>__If you already made a custom widget screen you can skip these first four steps.__  
+>__*This would have been something you yourself made earlier.* (GO TO STEP 1b)__
 
 Step 1: click the widgets button.
 
@@ -21,7 +23,8 @@ Step 4: Click add widget
 
 __*End of initial steps GO TO STEP 5*__
 
- >__*Note*: If you already made a custom widget screen you can do these two steps instead__
+ >__*Note*:__  
+>__If you already made a custom widget screen you can do these two steps instead__
 
 Step 1b: Hit the three dots and click edit
 
